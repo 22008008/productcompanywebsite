@@ -734,10 +734,13 @@ contact.html
 
 
 ## OUTPUT:
+![output](sricontact.png)
+![output](sripeople1.png)
+![output](sripeople2.png)
 
 ### Home Page:
 
-![output]()
+![output](srihome.png)
 
 ## Result:
 
