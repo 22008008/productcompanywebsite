@@ -740,7 +740,7 @@ contact.html
 ![output](sricontact.png)
 ![output](sripeople1.png)
 ![output](sripeople2.png)
-![output](sriproducts.png
+![output](sriproducts.png)
 
 ### Home Page:
 
